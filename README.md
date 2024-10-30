@@ -74,7 +74,7 @@
 1. Клонируйте репозиторий:
    git clone https://github.com/hinnero/PKG_Lab_3.git
    
-   cd repository
+   cd PKG_Lab_3
    
 Соберите проект с помощью Maven:
 
